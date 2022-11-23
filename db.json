@@ -1,40 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "Hello Friend" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   
   "cursosArray" :[
-  {
-    "id":1,
-    "titulo": "React 0",
-    "image": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg",
-    "price": 30,
-    "profesor": "Quiroga"
-  },
-  {
-    "id":2,
-    "titulo": "Boostrap",
-    "image": "https://avatars.githubusercontent.com/u/2918581?s=280&v=4",
-    "price": 13,
-    "profesor": "Alvaro"
-  },
-  {
-    "id":3,
-    "titulo": "Node.JS",
-    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vrvqSDHx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/s15ubgod56c7butyt7eu.jpg",
-    "price": 23,
-    "profesor": "Alexis"
-  }
+    {
+      "id":1,
+      "titulo": "React 0",
+      "image": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg",
+      "price": 30,
+      "profesor": "Quiroga"
+    },
+    {
+      "id":2,
+      "titulo": "Boostrap",
+      "image": "https://avatars.githubusercontent.com/u/2918581?s=280&v=4",
+      "price": 13,
+      "profesor": "Alvaro"
+    },
+    {
+      "id":3,
+      "titulo": "Node.JS",
+      "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vrvqSDHx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/s15ubgod56c7butyt7eu.jpg",
+      "price": 23,
+      "profesor": "Alexis"
+    }
   
 
-]
+  ]
 }
